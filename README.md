@@ -9,3 +9,7 @@ Challenge 01: Most of these historical documents are dark and contains text whos
 
 Challenge 02: Some images were different, so ARU-Net model didn't detect even single line.
 •	Solution: Need to train model on these types of images, for training, again preprocessed dataset is required
+
+
+References
+1.	Grüning, Tobias, et al. "A two-stage method for text line detection in historical documents." International Journal on Document Analysis and Recognition (IJDAR) 22.3 (2019): 285-302. APA
